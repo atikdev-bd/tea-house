@@ -6,3 +6,10 @@
     font-family: "Manrope", sans-serif;
 
 }
+
+#bg_img {
+    background-image: url(/images/bg_cup.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: bottom;
+}
